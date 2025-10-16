@@ -1,0 +1,3 @@
+[submodule "TKv2"]
+    path = TKv2
+    url = https://github.com/użytkownik/TKv2.git
