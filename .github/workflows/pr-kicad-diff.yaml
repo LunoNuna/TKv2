@@ -1,3 +1,4 @@
+# .github/workflows/pr-kicad-diff.yaml
 name: KiCad Pull Request Diff
 
 concurrency:
